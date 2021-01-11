@@ -7,4 +7,4 @@ The purpose of this analysis is to map earthquake data in relation to tectonic p
 ## Results
 
 Below is a screenshot of the final map contianing three map styles with  two earthquake data sets and the tectonic plate data.
-![alt_text]()
+![alt_text](https://github.com/NassimNatA/Mapping_Earthquakes/blob/main/Screen%20Shot%202021-01-10%20at%208.01.29%20PM.png)
